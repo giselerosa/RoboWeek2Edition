@@ -5,7 +5,7 @@ Documentation    Aqui temos a estrutura básica do projeto, o Selenium é import
 Library    SeleniumLibrary
 
 Resource    kws.robot
-
+Resource    helpers.robot
 *** Keywords ***
 
 Open Session
