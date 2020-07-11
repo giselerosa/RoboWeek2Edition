@@ -6,6 +6,11 @@ Library    SeleniumLibrary
 
 Resource    kws.robot
 Resource    helpers.robot
+Resource    elements.robot
+
+*** Variables ***
+
+${base_url}    http://ninjachef-qaninja-io.umbler.net/ 
 *** Keywords ***
 
 Open Session
