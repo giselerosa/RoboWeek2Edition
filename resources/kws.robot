@@ -31,6 +31,7 @@ Quando faço o cadastro desse item
     Input Text                          ${CAMPO_NOME}         ${produto['nome']}
     Input Text                          ${CAMPO_TIPO}         ${produto['tipo']}
     Input Text                          ${CAMPO_PRECO}        ${produto['preco']}
+    Wait Until Page Contains Element    ${CAMPO_FOTO}         5
     Click Element                       ${BOTAO_CADASTRAR}    
 
 Então devo ver este prato no meu dashboard
