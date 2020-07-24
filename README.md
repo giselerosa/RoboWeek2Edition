@@ -20,9 +20,16 @@ O Ninja Chef é um aplicativo que visa possibilitar que Chefes de Cozinha dispon
 
 ---
 
+## 💻 Aprendizado
+
+1. Testes WEB
+2. Testes de API
+3. Teste Mobile
+
+---
 ## 🔖 Site Usado dos Testes
 
-O Site que está sendo utilizado é o [Ninja Chef](http://ninjachef-qaninja-io.umbler.net/) desenvolvido para estudo para QANinja.
+O Site que está sendo utilizado é o [Ninja Chef](http://ninjachef-qaninja-io.umbler.net/) desenvolvido para estudo para QANinja. 
 
 
 ---
