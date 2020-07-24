@@ -3,6 +3,8 @@
 Documentation    Aqui temos a estrutura básica do projeto, o Selenium é importado aqui 
 
 Library    SeleniumLibrary
+Library    RequestsLibrary
+Library    OperatingSystem
 
 Resource    kws.robot
 Resource    helpers.robot
